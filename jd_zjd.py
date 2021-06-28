@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*
-'''
-项目名称: JD-Script / jd_zjd 
-Author: Curtin
-功能：微信小程序-赚京豆-瓜分10亿京豆自动助力，默认给账号1助力，多账号才能玩~
-Date: 2021/6/25 下午9:16
-TG交流 https://t.me/topstyle996
-TG频道 https://t.me/TopStyle2021
+''
 updateTime: 2021.6.27 20:06
 '''
 
